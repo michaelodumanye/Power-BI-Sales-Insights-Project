@@ -40,6 +40,7 @@
 ### Order clustering by location.
 ### Top 10 customers.
 ### Total revenue by product categories.
+### City with most orders.
 
 ![FUI](https://github.com/user-attachments/assets/36fbed28-0795-456f-a303-70e751a91b28)
 
