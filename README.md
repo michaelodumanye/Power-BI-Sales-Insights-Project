@@ -2,10 +2,12 @@
 
 
 ## Overview
-This project was developed as part of a client assignment by getINNOtized. The goal was to design and deliver an end-to-end business intelligence solution using Power BI. The client provided transactional data for the year 2019 and requested a comprehensive analysis to uncover insights that could drive sales and improve operational efficiency.
+
+### This project was developed as part of a client assignment by getINNOtized. The goal was to design and deliver an end-to-end business intelligence solution using Power BI. The client provided transactional data for the year 2019 and requested a comprehensive analysis to uncover insights that could drive sales and improve operational efficiency.
 
 ## Project Objectives
-The primary objectives of this project were to answer the following questions posed by the client:
+
+### The primary objectives of this project were to answer the following questions posed by the client:
 
 ### Annual Revenue: Determine the total revenue generated in 2019.
 ### Seasonality Analysis: Identify any seasonal trends in sales throughout the year.
@@ -30,7 +32,9 @@ The primary objectives of this project were to answer the following questions po
 
 
 ## Additional Insights
-During the analysis, additional insights were uncovered, providing the client with a deeper understanding of their business performance. These insights include:
+
+### During the analysis, additional insights were uncovered, providing the client with a deeper understanding of their business performance. These insights include:
+
 ### Order frequency by day of the week.
 ### Impact of order time on sales.
 ### Order clustering by location.
@@ -42,20 +46,24 @@ During the analysis, additional insights were uncovered, providing the client wi
 
 
 ## Tools and Technologies
+
 ### Power BI: The primary tool used for data analysis and visualization.
 ### Excel/CSV: Used for handling and cleaning the transactional data.
 
 
 ## How to Use
+
 ### Clone the repository to your local machine.
 ### Open the Power BI file (.pbix) to explore the dashboard and reports.
 ### Use the filters and slicers provided to interact with the data and derive custom insights.
 
 ## Conclusion
+
 ### This Power BI Dashboard provides the client with a comprehensive overview of their sales performance in 2019. By analyzing various aspects of the transactional data, the dashboard offers actionable insights that can help the client make informed business decisions to drive growth and efficiency.
 
 
 ## Contributors:
+
 ### Michael Oko Odumanye (modumanye@gmail.com)
 ### Isaac V.B. Asante-Akwatia
 ### Kevin Esawo
